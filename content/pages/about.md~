@@ -1,0 +1,12 @@
+title: About
+slug: about
+Template: about
+
+<---
+<img src="/images/jake.jpg" align="left" width="150" style="padding-right:20px;"/>
+--->
+My name is Iván Pulido.
+I am an physicist by training, and currently am a research assistant at [Combustión Ingenieros SAS](http://www.cihologramas.com) where I do work in areas such as optical testing, software development, statistical data analysis, among others.
+<br clear="left"/>
+
+Thanks for visiting!
